@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "方舟",
+  "base_artist": "cadode",
+  "createdAt": "2026-03-06T16:13:04.665564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "方舟 -ARK-",
+      "artist": "SOUND HOLIC",
+      "has_synced": false,
+      "path": "select/01_方舟_-ARK-_SOUND_HOLIC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "方舟 -Ark-",
+      "artist": "YURiCa",
+      "has_synced": false,
+      "path": "select/02_方舟_-Ark-_YURiCa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "方舟",
+      "artist": "cadode",
+      "has_synced": false,
+      "path": "select/pl_01_方舟_cadode.txt"
+    }
+  ]
+}
